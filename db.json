@@ -1,9 +1,10 @@
 {
-  "posts":[
+  "alunos":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "nome": "First post!",
+      "curso" : "My first content!",
+      "matricula": "45454"
     }
   ],
   "comments" : [
