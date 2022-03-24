@@ -5,6 +5,12 @@
       "nome": "First post!",
       "curso" : "My first content!",
       "matricula": "45454"
+    },
+     {
+      "id" : 1,
+      "nome": "Hrnning",
+      "curso" : "Frontend",
+      "matricula": "AES33443"
     }
   ],
   "comments" : [
