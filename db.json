@@ -13,6 +13,14 @@
       "matricula": "AES33443"
     }
   ],
+  "clientes":[
+    {
+      "id" : 0,
+      "nome": "Ferreira Costa",
+      "sexo" : "Masculino",
+      "idade": "24/01/1980"
+    }
+  ],
   "comments" : [
     {
       "id": 0,
